@@ -20,6 +20,6 @@ int main()
 		//cout << "31 + 70 = 101";
 
 
-
+		return 0;
 
 }
